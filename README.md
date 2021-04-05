@@ -19,5 +19,9 @@ Other Libraries used in the project are: Numpy; Pandas; Collections for data imp
 The codes were written using jupyter notebook.
 The functions were stored in in python file split_functions.
 
+## Credits:
+Stack Overflow
+Google
+Wikipedia
 
 
