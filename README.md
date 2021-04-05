@@ -20,8 +20,8 @@ The codes were written using jupyter notebook.
 The functions were stored in in python file split_functions.
 
 ## Credits:
-Stack Overflow
-Google
+Stack Overflow;
+Google;
 Wikipedia
 
 
