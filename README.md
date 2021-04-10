@@ -1,7 +1,7 @@
 
 # Stack-over/underflow
 Stack Overflow Usage and Community Analysis Using 2020 Stack Overflow developer survey 
-[Link to medium post](https://gpsalm.medium.com/stack-over-under-flow-572e46f2be53) 
+[Link to blog post on medium](https://gpsalm.medium.com/stack-over-under-flow-572e46f2be53) 
 
 
 ### Table of Contents
