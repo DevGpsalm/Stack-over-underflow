@@ -9,7 +9,7 @@ Stack Overflow Usage and Community Analysis Using 2020 Stack Overflow developer 
 1. [Installation](#installation)
 2. [File Descriptions](#files)
 3. [Project Motivation](#motivation)
-4. [Data Modelling & Analysis](modelling & analysis)
+4. [Data Modelling & Analysis](#modelling&analysis)
 5. [Results](#results)
 6. [Licensing, Authors, and Acknowledgements](#licensing)
 
@@ -33,7 +33,7 @@ Additionally, I assess the percentage of the respondents who uses stack overflow
 4.	The views of respondents as regards the relaxation of restriction on what is considered off-topic
 5.	Did respondents feel welcomed compared in 2020 to the previous year (2019) on the platform?
 
-## Data Modelling & Analysis <a name = "modeliing & analysis"></a>
+## Data Modelling & Analysis <a name = "modelling&analysis"></a>
 
 #### Data Understanding:
 The dataset used was gotten from stack overflow 2020 developer survey questionnaire.
