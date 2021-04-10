@@ -21,7 +21,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## File Descriptions <a name="files"></a>
 
-There are 2 notebooks available here to showcase work related to the above questions.  One of the notebooks (split_functions) contained the defined functions imported in the the main (stack overflowunderflow) notebook to make the main notebook clear and easy to understand. Markdown cells were used to assist in walking through the thought process for individual steps.  
+There are 2 notebooks available here to showcase work related to the above questions.  
+One of the notebooks (split_functions) contained the defined functions imported in the the main (stack overflowunderflow) notebook to make the main notebook clear and easy to understand. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 
 ## Project Motivation <a name="motivation"></a>
@@ -53,9 +54,7 @@ Even though more than 70% of the respondents did mention that they do have a sta
 [Click on this link for all the findings in this project](https://gpsalm.medium.com/stack-over-under-flow-572e46f2be53) 
 
 
-
-
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.
+Credit to Stack Overflow for the data.
 
