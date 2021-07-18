@@ -22,7 +22,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 ## File Descriptions <a name="files"></a>
 
 There are 2 notebooks available here to showcase work related to the above questions.  
-One of the notebooks (split_functions) contained the defined functions imported in the the main (stack overflowunderflow) notebook to make the main notebook clear and easy to understand. Markdown cells were used to assist in walking through the thought process for individual steps.
+One of the notebooks (split_functions) contained the defined functions imported in the the main (stack overflow/underflow) notebook to make the main notebook clear and easy to understand. Markdown cells were used to assist in walking through the thought process for individual steps.
 The data used is also contained in a zipped folder named developer_survey_2020. This zipped folder also contains the schema file, and the survey questionnaire in pdf format.
 
 
