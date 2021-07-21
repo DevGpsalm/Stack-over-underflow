@@ -14,10 +14,17 @@ def col_plot(df, col, title):
     OUTPUT:
     A chart of the values count for the specified column
     '''
+
+    df = df.dropna(subset=[col])
+
     #Provide a pandas series of the counts for the column
     vals_count = df[col].value_counts()
     
     (vals_count/df[col].shape[0]).plot(kind = 'barh')
+
+    print(vals_count/df[col].shape[0])
+    print(df.shape)
+    
     plt.title(title)
     
     return
